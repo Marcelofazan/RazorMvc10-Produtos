@@ -4,4 +4,4 @@ Exemplo de CRUD em Arquitetura de Camadas em Nhibernate C# ASP.NET Core 10 com b
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **NHibernate** | Framework de mapeamento objeto-relacional (ORM) para a plataforma .NET |
+| **NHibernate** | Framework de mapeamento de objeto-relacional (ORM) |
