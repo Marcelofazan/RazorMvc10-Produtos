@@ -1,4 +1,4 @@
-## 🌐 RazorMvc10-Produto
+## 🌐 RazorMvc10-Produtos
 Exemplo de CRUD em Arquitetura de Camadas em C# ASP.NET Core 10 NHibernate com banco de dados SQLite.
 
 #### 📋 O que você vai encontrar neste projeto
