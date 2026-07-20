@@ -1,4 +1,4 @@
-## 🌐 RazorMvc10-Produtos
+## 🌐 RazorMvc-Produtos
 Exemplo de CRUD em C# ASP.NET Core 10 NHibernate Razor Mvc com banco de dados SQLite.
 
 #### 📋 O que você vai encontrar neste projeto
